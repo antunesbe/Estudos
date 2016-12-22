@@ -17,3 +17,7 @@ Todos os materiais adicionados serão estudados antes.
   
   
 ### Javascript
+#### Links para estudo
+
+- 30 dias, 30 projetos de javascript
+  - https://javascript30.com/
