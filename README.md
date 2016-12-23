@@ -1,5 +1,13 @@
 # Estudos
 
+## Inteligência artificial
+
+### APIs
+- https://wit.ai/docs/
+- https://api.ai/
+
+### Links para estudo
+
 ## Front End
 
 Materiais de estudo para começar a aprender sobre Desenvolvimento de Front-end.
